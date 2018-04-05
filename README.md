@@ -1,2 +1,2 @@
-# Andrei’s Ogrenich DNA
+# DNA
 Code that makes an Andrei Ogrenich
