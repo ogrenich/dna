@@ -1,2 +1,2 @@
-# dna
-My DNA in raw text
+# Andrei’s Ogrenich DNA
+Code that makes an Andrei Ogrenich
